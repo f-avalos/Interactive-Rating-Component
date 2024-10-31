@@ -30,7 +30,7 @@ El desafío propuesto fue obtener desde un formulario la puntuación deseada de 
 
 ### Links
 
-- Sitio: [-](#)
+- Sitio: [Tarjeta de calificación interactiva](https://f-avalos.github.io/Interactive-Rating-Component/)
 
 ## Proceso
 
